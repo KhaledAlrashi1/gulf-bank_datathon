@@ -140,7 +140,7 @@ def compute_new_atm_boost(baseline_pred, region: str, n_new_atms: int) -> pd.Dat
     idx = pd.Index(baseline_pred["dt"].unique(), name="dt")
 
     # Case 1: no scenario effect -> all zeros
-    if region == "All regions" or n_new_atms <= 0:
+    if n_new_atms <= 0:
         return pd.DataFrame(
             {
                 "boost_amt": np.zeros(len(idx), dtype=float),
@@ -150,7 +150,11 @@ def compute_new_atm_boost(baseline_pred, region: str, n_new_atms: int) -> pd.Dat
         )
 
     # Filter region
-    reg_df = baseline_pred[baseline_pred["atm_region_meta"] == region]
+    if region == "All regions":
+        reg_df = baseline_pred.copy()
+    else:
+        reg_df = baseline_pred[baseline_pred["atm_region_meta"] == region]
+        
     if reg_df.empty:
         return pd.DataFrame(
             {
