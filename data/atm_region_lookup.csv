@@ -1,0 +1,251 @@
+atm_id,region,location_type
+ATM_0001,Hawalli,branch
+ATM_0002,Kuwait City,branch
+ATM_0003,Farwaniya,branch
+ATM_0004,Ahmadi,branch
+ATM_0005,Ahmadi,branch
+ATM_0006,Ahmadi,branch
+ATM_0007,Farwaniya,branch
+ATM_0008,Farwaniya,mall
+ATM_0009,Ahmadi,mall
+ATM_0010,Kuwait City,branch
+ATM_0011,Farwaniya,branch
+ATM_0012,Jahra,other
+ATM_0013,Kuwait City,branch
+ATM_0014,Jahra,other
+ATM_0015,Mubarak Al-Kabeer,branch
+ATM_0016,Kuwait City,branch
+ATM_0017,Farwaniya,branch
+ATM_0018,Kuwait City,other
+ATM_0019,Jahra,offsite
+ATM_0020,Farwaniya,mall
+ATM_0021,Hawalli,branch
+ATM_0022,Ahmadi,offsite
+ATM_0023,Kuwait City,mall
+ATM_0024,Kuwait City,offsite
+ATM_0025,Farwaniya,mall
+ATM_0026,Hawalli,offsite
+ATM_0027,Hawalli,branch
+ATM_0028,Jahra,branch
+ATM_0029,Hawalli,offsite
+ATM_0030,Farwaniya,branch
+ATM_0031,Farwaniya,mall
+ATM_0032,Mubarak Al-Kabeer,offsite
+ATM_0033,Kuwait City,branch
+ATM_0034,Jahra,other
+ATM_0035,Mubarak Al-Kabeer,branch
+ATM_0036,Hawalli,mall
+ATM_0037,Ahmadi,offsite
+ATM_0038,Kuwait City,offsite
+ATM_0039,Farwaniya,offsite
+ATM_0040,Hawalli,offsite
+ATM_0041,Kuwait City,offsite
+ATM_0042,Kuwait City,branch
+ATM_0043,Kuwait City,branch
+ATM_0044,Mubarak Al-Kabeer,mall
+ATM_0045,Kuwait City,branch
+ATM_0046,Ahmadi,branch
+ATM_0047,Jahra,offsite
+ATM_0048,Kuwait City,offsite
+ATM_0049,Farwaniya,offsite
+ATM_0050,Kuwait City,branch
+ATM_0051,Kuwait City,mall
+ATM_0052,Kuwait City,offsite
+ATM_0053,Farwaniya,mall
+ATM_0054,Farwaniya,branch
+ATM_0055,Kuwait City,branch
+ATM_0056,Jahra,branch
+ATM_0057,Kuwait City,airport
+ATM_0058,Jahra,offsite
+ATM_0059,Ahmadi,branch
+ATM_0060,Hawalli,other
+ATM_0061,Mubarak Al-Kabeer,branch
+ATM_0062,Kuwait City,offsite
+ATM_0063,Ahmadi,mall
+ATM_0064,Hawalli,offsite
+ATM_0065,Farwaniya,branch
+ATM_0066,Kuwait City,branch
+ATM_0067,Kuwait City,offsite
+ATM_0068,Kuwait City,other
+ATM_0069,Farwaniya,branch
+ATM_0070,Jahra,offsite
+ATM_0071,Mubarak Al-Kabeer,offsite
+ATM_0072,Hawalli,offsite
+ATM_0073,Kuwait City,mall
+ATM_0074,Ahmadi,branch
+ATM_0075,Ahmadi,branch
+ATM_0076,Mubarak Al-Kabeer,branch
+ATM_0077,Kuwait City,branch
+ATM_0078,Jahra,offsite
+ATM_0079,Hawalli,branch
+ATM_0080,Jahra,branch
+ATM_0081,Ahmadi,mall
+ATM_0082,Ahmadi,branch
+ATM_0083,Ahmadi,branch
+ATM_0084,Ahmadi,offsite
+ATM_0085,Ahmadi,branch
+ATM_0086,Kuwait City,offsite
+ATM_0087,Hawalli,branch
+ATM_0088,Hawalli,mall
+ATM_0089,Hawalli,offsite
+ATM_0090,Farwaniya,mall
+ATM_0091,Kuwait City,branch
+ATM_0092,Ahmadi,airport
+ATM_0093,Kuwait City,other
+ATM_0094,Ahmadi,branch
+ATM_0095,Farwaniya,branch
+ATM_0096,Kuwait City,offsite
+ATM_0097,Kuwait City,branch
+ATM_0098,Jahra,branch
+ATM_0099,Kuwait City,branch
+ATM_0100,Kuwait City,offsite
+ATM_0101,Hawalli,mall
+ATM_0102,Ahmadi,offsite
+ATM_0103,Hawalli,mall
+ATM_0104,Farwaniya,branch
+ATM_0105,Hawalli,branch
+ATM_0106,Farwaniya,mall
+ATM_0107,Hawalli,other
+ATM_0108,Mubarak Al-Kabeer,offsite
+ATM_0109,Kuwait City,branch
+ATM_0110,Farwaniya,mall
+ATM_0111,Farwaniya,branch
+ATM_0112,Ahmadi,branch
+ATM_0113,Ahmadi,branch
+ATM_0114,Farwaniya,offsite
+ATM_0115,Hawalli,mall
+ATM_0116,Kuwait City,branch
+ATM_0117,Kuwait City,offsite
+ATM_0118,Mubarak Al-Kabeer,offsite
+ATM_0119,Hawalli,mall
+ATM_0120,Farwaniya,other
+ATM_0121,Kuwait City,branch
+ATM_0122,Ahmadi,offsite
+ATM_0123,Kuwait City,offsite
+ATM_0124,Ahmadi,mall
+ATM_0125,Farwaniya,mall
+ATM_0126,Ahmadi,branch
+ATM_0127,Ahmadi,offsite
+ATM_0128,Hawalli,branch
+ATM_0129,Hawalli,offsite
+ATM_0130,Kuwait City,offsite
+ATM_0131,Ahmadi,branch
+ATM_0132,Hawalli,offsite
+ATM_0133,Mubarak Al-Kabeer,mall
+ATM_0134,Kuwait City,offsite
+ATM_0135,Mubarak Al-Kabeer,mall
+ATM_0136,Farwaniya,mall
+ATM_0137,Farwaniya,branch
+ATM_0138,Jahra,mall
+ATM_0139,Mubarak Al-Kabeer,branch
+ATM_0140,Hawalli,branch
+ATM_0141,Kuwait City,branch
+ATM_0142,Farwaniya,branch
+ATM_0143,Kuwait City,offsite
+ATM_0144,Kuwait City,branch
+ATM_0145,Farwaniya,branch
+ATM_0146,Mubarak Al-Kabeer,branch
+ATM_0147,Jahra,mall
+ATM_0148,Kuwait City,branch
+ATM_0149,Kuwait City,branch
+ATM_0150,Kuwait City,branch
+ATM_0151,Mubarak Al-Kabeer,branch
+ATM_0152,Kuwait City,branch
+ATM_0153,Hawalli,mall
+ATM_0154,Kuwait City,branch
+ATM_0155,Ahmadi,branch
+ATM_0156,Mubarak Al-Kabeer,branch
+ATM_0157,Jahra,mall
+ATM_0158,Jahra,offsite
+ATM_0159,Ahmadi,offsite
+ATM_0160,Kuwait City,offsite
+ATM_0161,Kuwait City,branch
+ATM_0162,Ahmadi,branch
+ATM_0163,Farwaniya,branch
+ATM_0164,Kuwait City,offsite
+ATM_0165,Kuwait City,branch
+ATM_0166,Jahra,mall
+ATM_0167,Ahmadi,mall
+ATM_0168,Ahmadi,offsite
+ATM_0169,Kuwait City,branch
+ATM_0170,Farwaniya,airport
+ATM_0171,Kuwait City,branch
+ATM_0172,Kuwait City,offsite
+ATM_0173,Mubarak Al-Kabeer,branch
+ATM_0174,Ahmadi,branch
+ATM_0175,Hawalli,branch
+ATM_0176,Mubarak Al-Kabeer,offsite
+ATM_0177,Hawalli,offsite
+ATM_0178,Jahra,offsite
+ATM_0179,Ahmadi,airport
+ATM_0180,Hawalli,mall
+ATM_0181,Farwaniya,branch
+ATM_0182,Kuwait City,branch
+ATM_0183,Farwaniya,branch
+ATM_0184,Farwaniya,branch
+ATM_0185,Hawalli,airport
+ATM_0186,Hawalli,branch
+ATM_0187,Mubarak Al-Kabeer,other
+ATM_0188,Ahmadi,offsite
+ATM_0189,Hawalli,branch
+ATM_0190,Jahra,offsite
+ATM_0191,Hawalli,branch
+ATM_0192,Kuwait City,offsite
+ATM_0193,Kuwait City,mall
+ATM_0194,Hawalli,branch
+ATM_0195,Hawalli,branch
+ATM_0196,Farwaniya,branch
+ATM_0197,Kuwait City,branch
+ATM_0198,Farwaniya,branch
+ATM_0199,Kuwait City,offsite
+ATM_0200,Jahra,offsite
+ATM_0201,Kuwait City,mall
+ATM_0202,Kuwait City,offsite
+ATM_0203,Kuwait City,offsite
+ATM_0204,Kuwait City,branch
+ATM_0205,Hawalli,branch
+ATM_0206,Farwaniya,branch
+ATM_0207,Ahmadi,mall
+ATM_0208,Hawalli,airport
+ATM_0209,Mubarak Al-Kabeer,airport
+ATM_0210,Ahmadi,branch
+ATM_0211,Kuwait City,mall
+ATM_0212,Hawalli,branch
+ATM_0213,Kuwait City,branch
+ATM_0214,Ahmadi,branch
+ATM_0215,Hawalli,mall
+ATM_0216,Hawalli,mall
+ATM_0217,Farwaniya,mall
+ATM_0218,Ahmadi,branch
+ATM_0219,Hawalli,offsite
+ATM_0220,Hawalli,other
+ATM_0221,Ahmadi,branch
+ATM_0222,Hawalli,mall
+ATM_0223,Mubarak Al-Kabeer,mall
+ATM_0224,Farwaniya,offsite
+ATM_0225,Farwaniya,branch
+ATM_0226,Farwaniya,mall
+ATM_0227,Ahmadi,branch
+ATM_0228,Hawalli,branch
+ATM_0229,Farwaniya,branch
+ATM_0230,Ahmadi,branch
+ATM_0231,Farwaniya,offsite
+ATM_0232,Ahmadi,branch
+ATM_0233,Farwaniya,offsite
+ATM_0234,Kuwait City,branch
+ATM_0235,Jahra,offsite
+ATM_0236,Hawalli,offsite
+ATM_0237,Mubarak Al-Kabeer,branch
+ATM_0238,Farwaniya,branch
+ATM_0239,Kuwait City,branch
+ATM_0240,Kuwait City,branch
+ATM_0241,Mubarak Al-Kabeer,other
+ATM_0242,Jahra,branch
+ATM_0243,Kuwait City,offsite
+ATM_0244,Ahmadi,branch
+ATM_0245,Ahmadi,offsite
+ATM_0246,Jahra,branch
+ATM_0247,Kuwait City,offsite
+ATM_0248,Kuwait City,branch
+ATM_0249,Ahmadi,mall
+ATM_0250,Kuwait City,branch
